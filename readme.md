@@ -71,8 +71,3 @@ Responsible for the application's design:
 
 ---
 
-## Styling Overview in `style.css`  
-
-- Styling standards are applied to every aspect of the DOM. 
-
---- 
